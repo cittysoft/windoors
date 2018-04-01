@@ -1,0 +1,17 @@
+#WELCOME TO THE WINDOORS UPDATE LOG!
+#This file will log all changes made to the windoors operating system GAME since it's first build in 2015.
+#Windoors current version: 86
+#This log does not include minor changes, but rather large ones
+#Working on: 87? or mype -distin
+#Current bugs found: 20
+#
+#
+#LET THE CHANGES BE FREE!
+
+1: Created master build (86, 31018) #First 86 version :D
+2: Master Build Revision (86, 31418) #this was for new sanders code :| andrew
+3: Master Build Revision (86, 32018) #Final build for old ide, changed to VS2017
+4: Master Rebuild (86, 32518) #Rebuilt to new standards 
+5: Master Build Revision (86, 33018) #Windoors is getting closer to release.
+6: Master Build Revision (86, 33118) #Added more programs, etc. 
+
